@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.markskelton.one-dark-theme</id>
   <name>One Dark Theme</name>
-  <version>@version@</version>
+  <version>5.11.0</version>
   <vendor email="one-dark@mskelton.dev"
           url="https://github.com/one-dark/jetbrains-one-dark-theme">Mark Skelton
   </vendor>
@@ -19,6 +19,7 @@
     <notificationGroup displayType="BALLOON" id="One Dark Theme" icon="OneDarkIcons.LOGO" isLogByDefault="false" toolWindowId="One Dark Theme"  />
     <postStartupActivity implementation="com.markskelton.OneDarkTheme"/>
     <themeProvider id="f92a0fa7-1a98-47cd-b5cb-78ff67e6f4f3" path="/themes/one_dark.theme.json"/>
+    <themeProvider id="1fa63ea1-a161-4d01-b488-d4a6b2d4c10e" path="/themes/one_dark_new_ui.theme.json"/>
     <themeProvider id="1a92aa6f-c2f1-4994-ae01-6a78e43eeb24" path="/themes/one_dark_italic.theme.json"/>
     <themeProvider id="4b6007f7-b596-4ee2-96f9-968d3d3eb392" path="/themes/one_dark_vivid.theme.json"/>
     <themeProvider id="4f556d32-83cb-4b8b-9932-c4eccc4ce3af" path="/themes/one_dark_vivid_italic.theme.json"/>
