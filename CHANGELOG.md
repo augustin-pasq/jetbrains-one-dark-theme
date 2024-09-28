@@ -1,6 +1,10 @@
 # Changelog
 
-#### Unreleased
+#### 5.12.0
+
+- Added 2024.3 Build Support
+
+#### 5.11.0
 
 - Added 2024.2 Build Support
 
